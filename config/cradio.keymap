@@ -44,7 +44,7 @@
                 label = "NAV";
 		bindings = <
 		&kp N1    &kp N2   &kp N3      &kp N4   &kp N0		xxx       xxx       xxx     xxx       xxx
-		&kp ESC   xxx      &kp LG(TAB) xxx      &kp TAB 	&kp LEFT  &kp DOWN  &kp UP  &kp RIGHT &kp BKSPC 
+		&kp ESC   xxx      &kp LG(TAB) xxx      &kp TAB 	&kp LEFT  &kp DOWN  &kp UP  &kp RIGHT &kp BSPC 
 		&sk LSFT  &sk LALT &sk LCTL    &sk LGUI xxx             xxx       &kp RET   &kp INS xxx       &kp DEL 
 					       ___      &mo FUN         ___       ___
 		>;
